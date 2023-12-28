@@ -1,3 +1,4 @@
+#solid-engine
 # Simple Interest Calculator
 
 Welcome to the Simple Interest Calculator project! This open-source initiative is part of our micro-finance startup's commitment to empowering and providing opportunities to low-income individuals by sharing useful financial tools.
